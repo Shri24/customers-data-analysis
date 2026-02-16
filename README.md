@@ -21,7 +21,7 @@ for further analysis.
 - Python
 - Pandas
 - NumPy
-- Jupyter Notebook
+- VS code
 
 ## 📊 Process
 ### 1️⃣ Data Immersion
