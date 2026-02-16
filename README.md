@@ -42,13 +42,6 @@ for further analysis.
 - Converting data types
 - Feature engineering
 
-## 📈 Outcome
-Cleaned and structured dataset ready for analysis.
-
----
-
-# IMDb Data Immersion & Wrangling Project
-
 ## 📖 Data Dictionary
 
 ### 📌 Overview
@@ -84,3 +77,6 @@ The dataset has been preprocessed to remove inconsistencies and ensure accurate 
 | imdb_score       | Float     | IMDb rating score (0–10)                                | Main performance indicator |
 
 ---
+
+## 📈 Outcome
+Cleaned and structured dataset ready for analysis.
