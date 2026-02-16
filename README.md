@@ -47,4 +47,40 @@ Cleaned and structured dataset ready for analysis.
 
 ---
 
-👨‍💻 Author: SRI HARI K N
+# IMDb Data Immersion & Wrangling Project
+
+## 📖 Data Dictionary
+
+### 📌 Overview
+This Data Dictionary provides structured definitions and descriptions of the dataset used in this project.  
+The dataset is sourced from IMDb and contains detailed information about movies, ratings, and financial performance.
+
+---
+
+## 🎬 IMDB Movie Dataset
+
+**Name:** imdb_movie_dataset  
+
+**Description:**  
+A cleaned movie dataset containing metadata, performance indicators, and audience engagement metrics.  
+The dataset has been preprocessed to remove inconsistencies and ensure accurate analysis.
+
+---
+
+## 📊 Column Details
+
+| Column Name       | Data Type | Description                                              | Relevance to Analysis |
+|------------------|-----------|----------------------------------------------------------|-----------------------|
+| movie_id         | String    | Unique identifier for each movie                        | Helps avoid duplicate records |
+| title            | String    | Name of the movie                                       | Used for identification and reporting |
+| release_year     | Integer   | Year the movie was released                             | Used for trend analysis over time |
+| genre            | String    | Category of the movie (Drama, Action, etc.)             | Analyze rating and income by genre |
+| duration_minutes | Integer   | Length of the movie in minutes                          | Study duration vs rating trends |
+| country          | String    | Country of production                                   | Country-wise comparison |
+| content_rating   | String    | Age classification (PG, R, etc.)                        | Audience segmentation analysis |
+| director         | String    | Name of the director                                    | Director performance trends |
+| income_usd       | Float     | Total box office revenue in USD                         | Financial performance analysis |
+| votes            | Integer   | Number of audience votes                                | Measures popularity |
+| imdb_score       | Float     | IMDb rating score (0–10)                                | Main performance indicator |
+
+---
