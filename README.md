@@ -1,1 +1,1 @@
-# IMDb Data Immersion & Wrangling Project
+# Data Immersion & Wrangling Project
