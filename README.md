@@ -1,8 +1,8 @@
-# Data Immersion & Wrangling Project
+# From Wrangling to Visualization: A Comprehensive IMDb Data Analysis Framework
 
 
 ## 📌 Project Overview
-This project focuses on Data Immersion and Data Wrangling using an IMDb movie dataset. 
+This project focuses on Data Wrangling using an IMDb movie dataset. 
 The objective is to assess data quality, clean inconsistencies, and transform the dataset 
 for further analysis.
 
